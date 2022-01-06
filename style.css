@@ -1,0 +1,141 @@
+h1 {
+  font-size: 45px;
+}
+
+.stay-focus-header {
+  border-left: 5px solid rgba(241, 44, 22, 0.849);
+  padding-left: 10px;
+}
+
+.header-color {
+  color: orange;
+}
+
+.stay-focus {
+  display: flex;
+}
+
+.stay-focus-parts {
+  width: 50%;
+}
+.link-button {
+  text-decoration: none;
+  color: white;
+  background-color: rgba(241, 44, 22, 0.849);
+  border-radius: 5px;
+  padding: 8px 25px;
+}
+.stay-focus-img {
+  width: 50%;
+  margin-left: 25%;
+}
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+section {
+  margin: 50px 100px 75px;
+}
+
+.mission-header {
+  text-align: center;
+  font-size: 35px;
+}
+
+.mission-parts {
+  display: flex;
+}
+
+.mission-parts-mission {
+  background-color: rgb(206, 221, 228);
+  border-radius: 20px;
+  padding: 20px 10px;
+}
+.mission-parts-vission {
+  background-color: rgb(224, 180, 187);
+  border-radius: 20px;
+  margin-left: 30px;
+  padding: 20px 10px;
+}
+
+.mission-parts-goals {
+  background-color: rgb(226, 226, 136);
+  border-radius: 20px;
+  margin-left: 30px;
+  padding: 20px 10px;
+}
+
+.mission-parts-hz {
+  height: 50%;
+}
+.mission-illus-pic {
+  width: 40%;
+}
+
+.development {
+  display: flex;
+  background-image: url(images/shapes/shape-10.png);
+  background-position: left;
+  background-size: 15%;
+  background-repeat: no-repeat;
+}
+
+.development-parts {
+  width: 50%;
+}
+
+.development-parts-img {
+  width: 70%;
+  margin-left: 10%;
+}
+
+.development-parts-para {
+  text-align: justify;
+  width: 100%;
+  padding: 10px 0;
+}
+
+.community {
+  display: flex;
+  background-image: url(images/shapes/shape-11.png);
+  background-position: 1400px 455px;
+  background-size: 10%;
+  background-repeat: no-repeat;
+}
+.community-parts {
+  width: 50%;
+}
+.community-parts-img {
+  width: 70%;
+  padding: 30px;
+  margin-left: 15%;
+}
+
+.community-parts-para {
+  text-align: justify;
+  width: 100%;
+  padding: 10px 0;
+}
+
+.learning-parts-main {
+  display: flex;
+}
+
+.learning-parts {
+  width: 50%;
+}
+
+.learning-parts-img {
+  width: 50%;
+  border-radius: 10px;
+}
+
+.footer-part {
+  background-color: black;
+  text-align: center;
+  color: white;
+  padding: 20px 0;
+}
+
+.footer-header {
+  color: red;
+}
